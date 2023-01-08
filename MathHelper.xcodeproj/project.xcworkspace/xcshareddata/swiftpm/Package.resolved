@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "down",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnxnguyen/Down",
+      "state" : {
+        "revision" : "f34b166be1f1db4aa8f573067e901d72f2a6be57",
+        "version" : "0.11.0"
+      }
+    },
+    {
+      "identity" : "iosmath",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tophatmonocle/iosMath",
+      "state" : {
+        "revision" : "8c65dab2295100c02d9d844f6dc5646ab9d57b42",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "richtextview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tophat/RichTextView.git",
+      "state" : {
+        "revision" : "2e518776ed88c25764a2fccfaf276b1d8ebbc635",
+        "version" : "3.2.2"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
